@@ -1,0 +1,34 @@
+.chakra-progress__indicator {
+    stroke-width: 12px
+}
+
+.content::-webkit-scrollbar {
+    width: 5px;
+}
+
+.content::-webkit-scrollbar-track {
+    background: none;
+}
+
+.content::-webkit-scrollbar-thumb {
+    background-color: #36363677;
+    border-radius: 16px;
+    height: 10px;
+    border: 3px solid #4e4e4e73;
+}
+
+.blink {
+    animation: blinkingBackground 1s infinite;
+}
+@keyframes blinkingBackground {
+    0%      { background-color: #ffffff;}
+    100%    { background-color: #92c3fa3d;}
+}
+
+.blink_dark {
+    animation: blinkingBackgroundDark 1s infinite;
+}
+@keyframes blinkingBackgroundDark {
+    0%		{ background-color: #0d1117;}
+    100%	{ background-color: #1e2228;}
+}
