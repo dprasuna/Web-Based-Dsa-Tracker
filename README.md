@@ -48,6 +48,6 @@ This project is licensed under the [MIT License](LICENSE).
 - Platforms like Geeks for Geeks and LeetCode for providing valuable practice questions.
 
 ## Contact
-For any inquiries or feedback, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, feel free to reach out at [prasunadash2005@gmail.com](mailto:prasunadash2005@gmail.com).
 
 Happy coding and good luck with your DSA preparation! 🚀
